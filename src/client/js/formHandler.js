@@ -1,7 +1,7 @@
 // Personal API Key for OpenWeatherMap API
 let baseURL = 'http://api.openweathermap.org/data/2.5/weather?q='
 const apiKey = '62eac2ad377f4082e0e45d28a4c12900';
-let city = '';
+let city = 'Dublin';
 
 function handleSubmit(event) {
     event.preventDefault()
@@ -10,9 +10,6 @@ function handleSubmit(event) {
     let formText = document.getElementById('name').value
     if(Client.checkForName(formText)){
         city = 'London';
-    }
-    else{
-        city = 'Dublin';
     }
 
     getWeatherData(baseURL,city, apiKey)

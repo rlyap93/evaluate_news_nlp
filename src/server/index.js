@@ -1,3 +1,4 @@
+const fetch = require('cross-fetch')
 const dotenv = require('dotenv');
 dotenv.config();
 
@@ -40,16 +41,16 @@ app.listen(8081, function () {
 });
 
 app.get('/test', function (req, res) {
-    res.send(mockAPIResponse)
+    res.send("mockAPIResponse")
 });
 
 const textInput ='';
 
 app.post('/getText', async (req,res) => {
-    const resp = await fetch(`${baseUrl}${API_KEY}&of=json&txt=${req.body.text}lang=en`);
-    console.log("success in index.js");
+    const resp = await fetch(`${baseUrl}${API_KEY}&of=json&txt=${req.body.text}&lang=en`);
     try {
       const data = await resp.json();
+      console.log(data);
       res.send(data);
     } catch (err) {
       console.log("error", err);

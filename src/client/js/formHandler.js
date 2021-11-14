@@ -7,22 +7,39 @@ function handleSubmit(event) {
     event.preventDefault()
 
     // check what text was put into the form field
-    let formText = document.getElementById('name').value
-    if(Client.checkForName(formText)){
-        city = 'London';
-    }
+    let formText = document.getElementById('user-input').value
+    // if(Client.checkForName(formText)){
+    //     city = 'London';
+    // }
 
-    getWeatherData(baseURL,city, apiKey)
-    .then(function(res) {
-        document.getElementById('results').innerHTML = res.main.temp + "&#8451; in " + res.name;
-    })
+    // getWeatherData(baseURL,city, apiKey)
+    // .then(function(res) {
+    //     document.getElementById('results').innerHTML = res.main.temp + "&#8451; in " + res.name;
+    // })
 
-    console.log("::: Form Submitted :::")
-    fetch('http://localhost:8081/test')
-    .then(res => res.json())
-    .then(function(res) {
-        document.getElementById('results').innerHTML = res.message
-    })
+    // console.log("::: Form Submitted :::")
+    // fetch('http://localhost:8081/test')
+    // .then(function(res) {
+    //     document.getElementById('results').innerHTML = res
+    // })
+
+      fetch('http://localhost:8081/getText', {
+          method: 'POST',
+          credentials: 'same-origin',
+          cache: 'no-cache',
+          mode: 'cors',
+          headers: {
+              'Content-Type': 'application/json',
+              "Access-Control-Allow-Origin": "*",
+          },
+          body: JSON.stringify({text: formText}),
+      })
+      .then(res => res.json())
+      .then(function(res) {
+          console.log(res)
+          document.getElementById('user-input-text').innerHTML = res.sentence_list[0].text
+          document.getElementById('results-agreement').innerHTML = res.agreement
+      })
 }
 
 /* Function to GET Web API Data*/
@@ -36,5 +53,6 @@ const getWeatherData = async (baseURL, city, key)=>{
     console.log("error", error);
   }
 }
+
 
 export { handleSubmit }

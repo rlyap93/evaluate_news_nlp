@@ -8,21 +8,7 @@ function handleSubmit(event) {
 
     // check what text was put into the form field
     let formText = document.getElementById('user-input').value
-    // if(Client.checkForName(formText)){
-    //     city = 'London';
-    // }
-
-    // getWeatherData(baseURL,city, apiKey)
-    // .then(function(res) {
-    //     document.getElementById('results').innerHTML = res.main.temp + "&#8451; in " + res.name;
-    // })
-
-    // console.log("::: Form Submitted :::")
-    // fetch('http://localhost:8081/test')
-    // .then(function(res) {
-    //     document.getElementById('results').innerHTML = res
-    // })
-
+    if(Client.checkForText(formText)){
       fetch('http://localhost:8081/getText', {
           method: 'POST',
           credentials: 'same-origin',
@@ -37,9 +23,15 @@ function handleSubmit(event) {
       .then(res => res.json())
       .then(function(res) {
           console.log(res)
+          document.getElementById('results-label').innerHTML = "You have written:"
           document.getElementById('user-input-text').innerHTML = res.sentence_list[0].text
+          document.getElementById('results-text').innerHTML = "Please find sentiment results below"
           document.getElementById('results-agreement').innerHTML = res.agreement
       })
+    }
+    else{
+      alert("Please enter a sentence to analyse");
+    }
 }
 
 /* Function to GET Web API Data*/

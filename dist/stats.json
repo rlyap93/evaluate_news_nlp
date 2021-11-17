@@ -1,22 +1,22 @@
 {
-  "hash": "e146d5430c115014d813",
-  "version": "5.61.0",
-  "time": 244,
-  "builtAt": 1635935013970,
+  "hash": "d937668ed95882d3d0a7",
+  "version": "5.64.0",
+  "time": 163,
+  "builtAt": 1637156148050,
   "publicPath": "auto",
   "outputPath": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\dist",
   "assetsByChunkName": {
     "main": [
       "main.css",
       "main.js",
-      "main.d9b332b82280951c9261.hot-update.js"
+      "main.682a922e96771a430768.hot-update.js"
     ]
   },
   "assets": [
     {
       "type": "asset",
       "name": "main.js",
-      "size": 283734,
+      "size": 283338,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
@@ -25,7 +25,7 @@
         "related": {
           "sourceMap": "main.js.map"
         },
-        "size": 283734
+        "size": 283338
       },
       "chunkNames": [
         "main"
@@ -38,13 +38,13 @@
         {
           "type": "sourceMap",
           "name": "main.js.map",
-          "size": 334646,
+          "size": 334145,
           "emitted": true,
           "comparedForEmit": false,
           "cached": false,
           "info": {
             "development": true,
-            "size": 334646
+            "size": 334145
           },
           "chunkNames": [],
           "chunkIdHints": [],
@@ -69,7 +69,7 @@
     {
       "type": "asset",
       "name": "main.css",
-      "size": 3486,
+      "size": 4439,
       "emitted": false,
       "comparedForEmit": false,
       "cached": true,
@@ -77,7 +77,7 @@
         "related": {
           "sourceMap": "main.css.map"
         },
-        "size": 3486
+        "size": 4439
       },
       "chunkNames": [
         "main"
@@ -90,13 +90,13 @@
         {
           "type": "sourceMap",
           "name": "main.css.map",
-          "size": 2677,
+          "size": 3524,
           "emitted": false,
           "comparedForEmit": false,
           "cached": true,
           "info": {
             "development": true,
-            "size": 2677
+            "size": 3524
           },
           "chunkNames": [],
           "chunkIdHints": [],
@@ -120,19 +120,19 @@
     },
     {
       "type": "asset",
-      "name": "main.d9b332b82280951c9261.hot-update.js",
-      "size": 2608,
+      "name": "main.682a922e96771a430768.hot-update.js",
+      "size": 1045,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "hotModuleReplacement": true,
         "immutable": true,
-        "fullhash": "d9b332b82280951c9261",
+        "fullhash": "682a922e96771a430768",
         "related": {
-          "sourceMap": "main.d9b332b82280951c9261.hot-update.js.map"
+          "sourceMap": "main.682a922e96771a430768.hot-update.js.map"
         },
-        "size": 2608
+        "size": 1045
       },
       "chunkNames": [
         "main"
@@ -144,14 +144,14 @@
       "related": [
         {
           "type": "sourceMap",
-          "name": "main.d9b332b82280951c9261.hot-update.js.map",
-          "size": 2626,
+          "name": "main.682a922e96771a430768.hot-update.js.map",
+          "size": 821,
           "emitted": true,
           "comparedForEmit": false,
           "cached": false,
           "info": {
             "development": true,
-            "size": 2626
+            "size": 821
           },
           "chunkNames": [],
           "chunkIdHints": [],
@@ -175,7 +175,7 @@
     },
     {
       "type": "asset",
-      "name": "main.d9b332b82280951c9261.hot-update.json",
+      "name": "main.682a922e96771a430768.hot-update.json",
       "size": 28,
       "emitted": true,
       "comparedForEmit": false,
@@ -183,7 +183,7 @@
       "info": {
         "hotModuleReplacement": true,
         "immutable": true,
-        "fullhash": "d9b332b82280951c9261",
+        "fullhash": "682a922e96771a430768",
         "size": 28
       },
       "chunkNames": [],
@@ -202,11 +202,11 @@
       "initial": true,
       "entry": true,
       "recorded": false,
-      "size": 245605,
+      "size": 245817,
       "sizes": {
-        "css/mini-extract": 1572,
-        "runtime": 30752,
-        "javascript": 213281
+        "css/mini-extract": 2135,
+        "runtime": 30742,
+        "javascript": 212940
       },
       "names": [
         "main"
@@ -218,14 +218,14 @@
       "files": [
         "main.css",
         "main.js",
-        "main.d9b332b82280951c9261.hot-update.js"
+        "main.682a922e96771a430768.hot-update.js"
       ],
       "auxiliaryFiles": [
+        "main.682a922e96771a430768.hot-update.js.map",
         "main.css.map",
-        "main.d9b332b82280951c9261.hot-update.js.map",
         "main.js.map"
       ],
-      "hash": "63b0f9324576620cde0e",
+      "hash": "502fe625ba8d233d941f",
       "childrenByOrder": {},
       "id": "main",
       "siblings": [],
@@ -788,8 +788,8 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
-          "issuerName": "./src/client/styles/resets.scss",
+          "issuer": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\base.scss",
+          "issuerName": "./src/client/styles/base.scss",
           "issuerPath": [
             {
               "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\index.js",
@@ -797,16 +797,16 @@
               "id": "./src/client/index.js"
             },
             {
-              "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
-              "name": "./src/client/styles/resets.scss",
-              "id": "./src/client/styles/resets.scss"
+              "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\base.scss",
+              "name": "./src/client/styles/base.scss",
+              "id": "./src/client/styles/base.scss"
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js",
-          "issuerId": "./src/client/styles/resets.scss",
+          "issuerId": "./src/client/styles/base.scss",
           "chunks": [
             "main"
           ],
@@ -934,9 +934,9 @@
               "id": "./src/client/index.js"
             },
             {
-              "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
-              "name": "./src/client/styles/resets.scss",
-              "id": "./src/client/styles/resets.scss"
+              "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\base.scss",
+              "name": "./src/client/styles/base.scss",
+              "id": "./src/client/styles/base.scss"
             },
             {
               "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\mini-css-extract-plugin\\dist\\hmr\\hotModuleReplacement.js",
@@ -3523,9 +3523,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 351,
+          "size": 307,
           "sizes": {
-            "javascript": 351
+            "javascript": 307
           },
           "built": false,
           "codeGenerated": false,
@@ -3536,8 +3536,8 @@
           "nameForCondition": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\index.js",
           "index": 28,
           "preOrderIndex": 28,
-          "index2": 42,
-          "postOrderIndex": 42,
+          "index2": 43,
+          "postOrderIndex": 43,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -3585,7 +3585,7 @@
           ],
           "usedExports": null,
           "providedExports": [
-            "checkForName",
+            "checkForText",
             "handleSubmit"
           ],
           "optimizationBailout": [],
@@ -3595,14 +3595,92 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 1805,
+          "size": 223,
           "sizes": {
-            "javascript": 1805
+            "javascript": 223
           },
-          "built": true,
-          "codeGenerated": true,
+          "built": false,
+          "codeGenerated": false,
           "buildTimeExecuted": false,
-          "cached": false,
+          "cached": true,
+          "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\js\\formChecker.js",
+          "name": "./src/client/js/formChecker.js",
+          "nameForCondition": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\js\\formChecker.js",
+          "index": 29,
+          "preOrderIndex": 29,
+          "index2": 28,
+          "postOrderIndex": 28,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": true,
+          "issuer": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\index.js",
+          "issuerName": "./src/client/index.js",
+          "issuerPath": [
+            {
+              "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\index.js",
+              "name": "./src/client/index.js",
+              "id": "./src/client/index.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "./src/client/js/formChecker.js",
+          "issuerId": "./src/client/index.js",
+          "chunks": [
+            "main"
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\index.js",
+              "module": "./src/client/index.js",
+              "moduleName": "./src/client/index.js",
+              "resolvedModuleIdentifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\index.js",
+              "resolvedModule": "./src/client/index.js",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./js/formChecker",
+              "loc": "1:0-47",
+              "moduleId": "./src/client/index.js",
+              "resolvedModuleId": "./src/client/index.js"
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\index.js",
+              "module": "./src/client/index.js",
+              "moduleName": "./src/client/index.js",
+              "resolvedModuleIdentifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\index.js",
+              "resolvedModule": "./src/client/index.js",
+              "type": "harmony export imported specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./js/formChecker",
+              "loc": "9:0-12:1",
+              "moduleId": "./src/client/index.js",
+              "resolvedModuleId": "./src/client/index.js"
+            }
+          ],
+          "usedExports": null,
+          "providedExports": [
+            "checkForText"
+          ],
+          "optimizationBailout": [],
+          "depth": 1
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 1638,
+          "sizes": {
+            "javascript": 1638
+          },
+          "built": false,
+          "codeGenerated": false,
+          "buildTimeExecuted": false,
+          "cached": true,
           "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\js\\formHandler.js",
           "name": "./src/client/js/formHandler.js",
           "nameForCondition": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\js\\formHandler.js",
@@ -3673,98 +3751,6 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 353,
-          "sizes": {
-            "javascript": 353
-          },
-          "built": false,
-          "codeGenerated": false,
-          "buildTimeExecuted": false,
-          "cached": true,
-          "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\js\\nameChecker.js",
-          "name": "./src/client/js/nameChecker.js",
-          "nameForCondition": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\js\\nameChecker.js",
-          "index": 29,
-          "preOrderIndex": 29,
-          "index2": 28,
-          "postOrderIndex": 28,
-          "cacheable": true,
-          "optional": false,
-          "orphan": false,
-          "dependent": true,
-          "issuer": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\index.js",
-          "issuerName": "./src/client/index.js",
-          "issuerPath": [
-            {
-              "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\index.js",
-              "name": "./src/client/index.js",
-              "id": "./src/client/index.js"
-            }
-          ],
-          "failed": false,
-          "errors": 0,
-          "warnings": 0,
-          "id": "./src/client/js/nameChecker.js",
-          "issuerId": "./src/client/index.js",
-          "chunks": [
-            "main"
-          ],
-          "assets": [],
-          "reasons": [
-            {
-              "moduleIdentifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\index.js",
-              "module": "./src/client/index.js",
-              "moduleName": "./src/client/index.js",
-              "resolvedModuleIdentifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\index.js",
-              "resolvedModule": "./src/client/index.js",
-              "type": "harmony side effect evaluation",
-              "active": true,
-              "explanation": "",
-              "userRequest": "./js/nameChecker",
-              "loc": "1:0-47",
-              "moduleId": "./src/client/index.js",
-              "resolvedModuleId": "./src/client/index.js"
-            },
-            {
-              "moduleIdentifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\index.js",
-              "module": "./src/client/index.js",
-              "moduleName": "./src/client/index.js",
-              "resolvedModuleIdentifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\index.js",
-              "resolvedModule": "./src/client/index.js",
-              "type": "harmony export imported specifier",
-              "active": true,
-              "explanation": "",
-              "userRequest": "./js/nameChecker",
-              "loc": "9:0-12:1",
-              "moduleId": "./src/client/index.js",
-              "resolvedModuleId": "./src/client/index.js"
-            },
-            {
-              "moduleIdentifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\index.js",
-              "module": "./src/client/index.js",
-              "moduleName": "./src/client/index.js",
-              "resolvedModuleIdentifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\index.js",
-              "resolvedModule": "./src/client/index.js",
-              "type": "harmony import specifier",
-              "active": true,
-              "explanation": "",
-              "userRequest": "./js/nameChecker",
-              "loc": "14:12-24",
-              "moduleId": "./src/client/index.js",
-              "resolvedModuleId": "./src/client/index.js"
-            }
-          ],
-          "usedExports": null,
-          "providedExports": [
-            "checkForName"
-          ],
-          "optimizationBailout": [],
-          "depth": 1
-        },
-        {
-          "type": "module",
-          "moduleType": "javascript/auto",
-          "layer": null,
           "size": 378,
           "sizes": {
             "javascript": 378
@@ -3776,10 +3762,10 @@
           "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\base.scss",
           "name": "./src/client/styles/base.scss",
           "nameForCondition": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\base.scss",
-          "index": 35,
-          "preOrderIndex": 35,
-          "index2": 35,
-          "postOrderIndex": 35,
+          "index": 36,
+          "preOrderIndex": 36,
+          "index2": 36,
+          "postOrderIndex": 36,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -3838,10 +3824,10 @@
           "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\footer.scss",
           "name": "./src/client/styles/footer.scss",
           "nameForCondition": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\footer.scss",
-          "index": 37,
-          "preOrderIndex": 37,
-          "index2": 37,
-          "postOrderIndex": 37,
+          "index": 38,
+          "preOrderIndex": 38,
+          "index2": 38,
+          "postOrderIndex": 38,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -3900,10 +3886,10 @@
           "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\form.scss",
           "name": "./src/client/styles/form.scss",
           "nameForCondition": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\form.scss",
-          "index": 39,
-          "preOrderIndex": 39,
-          "index2": 39,
-          "postOrderIndex": 39,
+          "index": 40,
+          "preOrderIndex": 40,
+          "index2": 40,
+          "postOrderIndex": 40,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -3962,10 +3948,10 @@
           "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\header.scss",
           "name": "./src/client/styles/header.scss",
           "nameForCondition": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\header.scss",
-          "index": 41,
-          "preOrderIndex": 41,
-          "index2": 41,
-          "postOrderIndex": 41,
+          "index": 42,
+          "preOrderIndex": 42,
+          "index2": 42,
+          "postOrderIndex": 42,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -4017,17 +4003,17 @@
           "sizes": {
             "javascript": 378
           },
-          "built": false,
-          "codeGenerated": false,
+          "built": true,
+          "codeGenerated": true,
           "buildTimeExecuted": false,
-          "cached": true,
+          "cached": false,
           "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
           "name": "./src/client/styles/resets.scss",
           "nameForCondition": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
           "index": 31,
           "preOrderIndex": 31,
-          "index2": 33,
-          "postOrderIndex": 33,
+          "index2": 34,
+          "postOrderIndex": 34,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -4074,9 +4060,9 @@
         {
           "type": "module",
           "moduleType": "css/mini-extract",
-          "size": 148,
+          "size": 217,
           "sizes": {
-            "css/mini-extract": 148
+            "css/mini-extract": 217
           },
           "built": false,
           "codeGenerated": false,
@@ -4085,10 +4071,10 @@
           "identifier": "css|C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\base.scss|0",
           "name": "css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/client/styles/base.scss",
           "nameForCondition": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\base.scss",
-          "index": 36,
-          "preOrderIndex": 36,
-          "index2": 34,
-          "postOrderIndex": 34,
+          "index": 37,
+          "preOrderIndex": 37,
+          "index2": 35,
+          "postOrderIndex": 35,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -4150,10 +4136,10 @@
           "identifier": "css|C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\footer.scss|0",
           "name": "css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/client/styles/footer.scss",
           "nameForCondition": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\footer.scss",
-          "index": 38,
-          "preOrderIndex": 38,
-          "index2": 36,
-          "postOrderIndex": 36,
+          "index": 39,
+          "preOrderIndex": 39,
+          "index2": 37,
+          "postOrderIndex": 37,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -4204,9 +4190,9 @@
         {
           "type": "module",
           "moduleType": "css/mini-extract",
-          "size": 163,
+          "size": 200,
           "sizes": {
-            "css/mini-extract": 163
+            "css/mini-extract": 200
           },
           "built": false,
           "codeGenerated": false,
@@ -4215,10 +4201,10 @@
           "identifier": "css|C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\form.scss|0",
           "name": "css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/client/styles/form.scss",
           "nameForCondition": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\form.scss",
-          "index": 40,
-          "preOrderIndex": 40,
-          "index2": 38,
-          "postOrderIndex": 38,
+          "index": 41,
+          "preOrderIndex": 41,
+          "index2": 39,
+          "postOrderIndex": 39,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -4280,10 +4266,10 @@
           "identifier": "css|C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\header.scss|0",
           "name": "css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/client/styles/header.scss",
           "nameForCondition": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\header.scss",
-          "index": 42,
-          "preOrderIndex": 42,
-          "index2": 40,
-          "postOrderIndex": 40,
+          "index": 43,
+          "preOrderIndex": 43,
+          "index2": 41,
+          "postOrderIndex": 41,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -4334,14 +4320,14 @@
         {
           "type": "module",
           "moduleType": "css/mini-extract",
-          "size": 1177,
+          "size": 149,
           "sizes": {
-            "css/mini-extract": 1177
+            "css/mini-extract": 149
           },
-          "built": false,
+          "built": true,
           "codeGenerated": false,
           "buildTimeExecuted": false,
-          "cached": true,
+          "cached": false,
           "identifier": "css|C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss|0",
           "name": "css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/client/styles/resets.scss",
           "nameForCondition": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
@@ -4349,6 +4335,71 @@
           "preOrderIndex": 34,
           "index2": 32,
           "postOrderIndex": 32,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": true,
+          "issuer": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
+          "issuerName": "./src/client/styles/resets.scss",
+          "issuerPath": [
+            {
+              "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\index.js",
+              "name": "./src/client/index.js",
+              "id": "./src/client/index.js"
+            },
+            {
+              "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
+              "name": "./src/client/styles/resets.scss",
+              "id": "./src/client/styles/resets.scss"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": null,
+          "issuerId": "./src/client/styles/resets.scss",
+          "chunks": [
+            "main"
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
+              "module": "./src/client/styles/resets.scss",
+              "moduleName": "./src/client/styles/resets.scss",
+              "resolvedModuleIdentifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
+              "resolvedModule": "./src/client/styles/resets.scss",
+              "type": "unknown",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "moduleId": "./src/client/styles/resets.scss",
+              "resolvedModuleId": "./src/client/styles/resets.scss"
+            }
+          ],
+          "usedExports": null,
+          "providedExports": null,
+          "optimizationBailout": [],
+          "depth": 2
+        },
+        {
+          "type": "module",
+          "moduleType": "css/mini-extract",
+          "size": 1485,
+          "sizes": {
+            "css/mini-extract": 1485
+          },
+          "built": true,
+          "codeGenerated": false,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "css|C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss|1",
+          "name": "css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/client/styles/resets.scss (1)",
+          "nameForCondition": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
+          "index": 35,
+          "preOrderIndex": 35,
+          "index2": 33,
+          "postOrderIndex": 33,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -4544,9 +4595,9 @@
           "type": "module",
           "moduleType": "runtime",
           "layer": null,
-          "size": 173,
+          "size": 163,
           "sizes": {
-            "runtime": 173
+            "runtime": 163
           },
           "built": false,
           "codeGenerated": true,
@@ -5075,9 +5126,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 351,
+      "size": 307,
       "sizes": {
-        "javascript": 351
+        "javascript": 307
       },
       "built": false,
       "codeGenerated": false,
@@ -5088,8 +5139,8 @@
       "nameForCondition": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\index.js",
       "index": 28,
       "preOrderIndex": 28,
-      "index2": 42,
-      "postOrderIndex": 42,
+      "index2": 43,
+      "postOrderIndex": 43,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -5136,7 +5187,7 @@
       ],
       "usedExports": null,
       "providedExports": [
-        "checkForName",
+        "checkForText",
         "handleSubmit"
       ],
       "optimizationBailout": [],
@@ -6595,17 +6646,17 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 353,
+      "size": 223,
       "sizes": {
-        "javascript": 353
+        "javascript": 223
       },
       "built": false,
       "codeGenerated": false,
       "buildTimeExecuted": false,
       "cached": true,
-      "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\js\\nameChecker.js",
-      "name": "./src/client/js/nameChecker.js",
-      "nameForCondition": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\js\\nameChecker.js",
+      "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\js\\formChecker.js",
+      "name": "./src/client/js/formChecker.js",
+      "nameForCondition": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\js\\formChecker.js",
       "index": 29,
       "preOrderIndex": 29,
       "index2": 28,
@@ -6625,7 +6676,7 @@
       "failed": false,
       "errors": 0,
       "warnings": 0,
-      "id": "./src/client/js/nameChecker.js",
+      "id": "./src/client/js/formChecker.js",
       "issuerId": "./src/client/index.js",
       "chunks": [
         "main"
@@ -6641,7 +6692,7 @@
           "type": "harmony side effect evaluation",
           "active": true,
           "explanation": "",
-          "userRequest": "./js/nameChecker",
+          "userRequest": "./js/formChecker",
           "loc": "1:0-47",
           "moduleId": "./src/client/index.js",
           "resolvedModuleId": "./src/client/index.js"
@@ -6655,29 +6706,15 @@
           "type": "harmony export imported specifier",
           "active": true,
           "explanation": "",
-          "userRequest": "./js/nameChecker",
+          "userRequest": "./js/formChecker",
           "loc": "9:0-12:1",
-          "moduleId": "./src/client/index.js",
-          "resolvedModuleId": "./src/client/index.js"
-        },
-        {
-          "moduleIdentifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\index.js",
-          "module": "./src/client/index.js",
-          "moduleName": "./src/client/index.js",
-          "resolvedModuleIdentifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\index.js",
-          "resolvedModule": "./src/client/index.js",
-          "type": "harmony import specifier",
-          "active": true,
-          "explanation": "",
-          "userRequest": "./js/nameChecker",
-          "loc": "14:12-24",
           "moduleId": "./src/client/index.js",
           "resolvedModuleId": "./src/client/index.js"
         }
       ],
       "usedExports": null,
       "providedExports": [
-        "checkForName"
+        "checkForText"
       ],
       "optimizationBailout": [],
       "depth": 1
@@ -6686,14 +6723,14 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 1805,
+      "size": 1638,
       "sizes": {
-        "javascript": 1805
+        "javascript": 1638
       },
-      "built": true,
-      "codeGenerated": true,
+      "built": false,
+      "codeGenerated": false,
       "buildTimeExecuted": false,
-      "cached": false,
+      "cached": true,
       "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\js\\formHandler.js",
       "name": "./src/client/js/formHandler.js",
       "nameForCondition": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\js\\formHandler.js",
@@ -6767,17 +6804,17 @@
       "sizes": {
         "javascript": 378
       },
-      "built": false,
-      "codeGenerated": false,
+      "built": true,
+      "codeGenerated": true,
       "buildTimeExecuted": false,
-      "cached": true,
+      "cached": false,
       "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
       "name": "./src/client/styles/resets.scss",
       "nameForCondition": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
       "index": 31,
       "preOrderIndex": 31,
-      "index2": 33,
-      "postOrderIndex": 33,
+      "index2": 34,
+      "postOrderIndex": 34,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -6835,10 +6872,10 @@
       "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\base.scss",
       "name": "./src/client/styles/base.scss",
       "nameForCondition": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\base.scss",
-      "index": 35,
-      "preOrderIndex": 35,
-      "index2": 35,
-      "postOrderIndex": 35,
+      "index": 36,
+      "preOrderIndex": 36,
+      "index2": 36,
+      "postOrderIndex": 36,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -6896,10 +6933,10 @@
       "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\footer.scss",
       "name": "./src/client/styles/footer.scss",
       "nameForCondition": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\footer.scss",
-      "index": 37,
-      "preOrderIndex": 37,
-      "index2": 37,
-      "postOrderIndex": 37,
+      "index": 38,
+      "preOrderIndex": 38,
+      "index2": 38,
+      "postOrderIndex": 38,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -6957,10 +6994,10 @@
       "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\form.scss",
       "name": "./src/client/styles/form.scss",
       "nameForCondition": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\form.scss",
-      "index": 39,
-      "preOrderIndex": 39,
-      "index2": 39,
-      "postOrderIndex": 39,
+      "index": 40,
+      "preOrderIndex": 40,
+      "index2": 40,
+      "postOrderIndex": 40,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -7018,10 +7055,10 @@
       "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\header.scss",
       "name": "./src/client/styles/header.scss",
       "nameForCondition": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\header.scss",
-      "index": 41,
-      "preOrderIndex": 41,
-      "index2": 41,
-      "postOrderIndex": 41,
+      "index": 42,
+      "preOrderIndex": 42,
+      "index2": 42,
+      "postOrderIndex": 42,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -7829,8 +7866,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
-      "issuerName": "./src/client/styles/resets.scss",
+      "issuer": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\base.scss",
+      "issuerName": "./src/client/styles/base.scss",
       "issuerPath": [
         {
           "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\index.js",
@@ -7838,16 +7875,16 @@
           "id": "./src/client/index.js"
         },
         {
-          "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
-          "name": "./src/client/styles/resets.scss",
-          "id": "./src/client/styles/resets.scss"
+          "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\base.scss",
+          "name": "./src/client/styles/base.scss",
+          "id": "./src/client/styles/base.scss"
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js",
-      "issuerId": "./src/client/styles/resets.scss",
+      "issuerId": "./src/client/styles/base.scss",
       "chunks": [
         "main"
       ],
@@ -7946,14 +7983,14 @@
     {
       "type": "module",
       "moduleType": "css/mini-extract",
-      "size": 1177,
+      "size": 149,
       "sizes": {
-        "css/mini-extract": 1177
+        "css/mini-extract": 149
       },
-      "built": false,
+      "built": true,
       "codeGenerated": false,
       "buildTimeExecuted": false,
-      "cached": true,
+      "cached": false,
       "identifier": "css|C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss|0",
       "name": "css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/client/styles/resets.scss",
       "nameForCondition": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
@@ -8010,9 +8047,73 @@
     {
       "type": "module",
       "moduleType": "css/mini-extract",
-      "size": 148,
+      "size": 1485,
       "sizes": {
-        "css/mini-extract": 148
+        "css/mini-extract": 1485
+      },
+      "built": true,
+      "codeGenerated": false,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "css|C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss|1",
+      "name": "css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/client/styles/resets.scss (1)",
+      "nameForCondition": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
+      "index": 35,
+      "preOrderIndex": 35,
+      "index2": 33,
+      "postOrderIndex": 33,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
+      "issuerName": "./src/client/styles/resets.scss",
+      "issuerPath": [
+        {
+          "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\index.js",
+          "name": "./src/client/index.js",
+          "id": "./src/client/index.js"
+        },
+        {
+          "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
+          "name": "./src/client/styles/resets.scss",
+          "id": "./src/client/styles/resets.scss"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "issuerId": "./src/client/styles/resets.scss",
+      "chunks": [
+        "main"
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
+          "module": "./src/client/styles/resets.scss",
+          "moduleName": "./src/client/styles/resets.scss",
+          "resolvedModuleIdentifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
+          "resolvedModule": "./src/client/styles/resets.scss",
+          "type": "unknown",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "moduleId": "./src/client/styles/resets.scss",
+          "resolvedModuleId": "./src/client/styles/resets.scss"
+        }
+      ],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [],
+      "depth": 2
+    },
+    {
+      "type": "module",
+      "moduleType": "css/mini-extract",
+      "size": 217,
+      "sizes": {
+        "css/mini-extract": 217
       },
       "built": false,
       "codeGenerated": false,
@@ -8021,10 +8122,10 @@
       "identifier": "css|C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\base.scss|0",
       "name": "css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/client/styles/base.scss",
       "nameForCondition": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\base.scss",
-      "index": 36,
-      "preOrderIndex": 36,
-      "index2": 34,
-      "postOrderIndex": 34,
+      "index": 37,
+      "preOrderIndex": 37,
+      "index2": 35,
+      "postOrderIndex": 35,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -8085,10 +8186,10 @@
       "identifier": "css|C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\footer.scss|0",
       "name": "css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/client/styles/footer.scss",
       "nameForCondition": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\footer.scss",
-      "index": 38,
-      "preOrderIndex": 38,
-      "index2": 36,
-      "postOrderIndex": 36,
+      "index": 39,
+      "preOrderIndex": 39,
+      "index2": 37,
+      "postOrderIndex": 37,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -8138,9 +8239,9 @@
     {
       "type": "module",
       "moduleType": "css/mini-extract",
-      "size": 163,
+      "size": 200,
       "sizes": {
-        "css/mini-extract": 163
+        "css/mini-extract": 200
       },
       "built": false,
       "codeGenerated": false,
@@ -8149,10 +8250,10 @@
       "identifier": "css|C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\form.scss|0",
       "name": "css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/client/styles/form.scss",
       "nameForCondition": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\form.scss",
-      "index": 40,
-      "preOrderIndex": 40,
-      "index2": 38,
-      "postOrderIndex": 38,
+      "index": 41,
+      "preOrderIndex": 41,
+      "index2": 39,
+      "postOrderIndex": 39,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -8213,10 +8314,10 @@
       "identifier": "css|C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\header.scss|0",
       "name": "css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/client/styles/header.scss",
       "nameForCondition": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\header.scss",
-      "index": 42,
-      "preOrderIndex": 42,
-      "index2": 40,
-      "postOrderIndex": 40,
+      "index": 43,
+      "preOrderIndex": 43,
+      "index2": 41,
+      "postOrderIndex": 41,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -8850,9 +8951,9 @@
           "id": "./src/client/index.js"
         },
         {
-          "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
-          "name": "./src/client/styles/resets.scss",
-          "id": "./src/client/styles/resets.scss"
+          "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\base.scss",
+          "name": "./src/client/styles/base.scss",
+          "id": "./src/client/styles/base.scss"
         },
         {
           "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\mini-css-extract-plugin\\dist\\hmr\\hotModuleReplacement.js",
@@ -9086,6 +9187,299 @@
     },
     {
       "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 4654,
+      "sizes": {
+        "javascript": 4654
+      },
+      "built": true,
+      "codeGenerated": false,
+      "buildTimeExecuted": true,
+      "cached": false,
+      "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
+      "name": "./src/client/styles/resets.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/client/styles/resets.scss",
+      "nameForCondition": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "cacheable": true,
+      "optional": false,
+      "orphan": true,
+      "issuer": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
+      "issuerName": "./src/client/styles/resets.scss",
+      "issuerPath": [
+        {
+          "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\index.js",
+          "name": "./src/client/index.js",
+          "id": "./src/client/index.js"
+        },
+        {
+          "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
+          "name": "./src/client/styles/resets.scss",
+          "id": "./src/client/styles/resets.scss"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "issuerId": "./src/client/styles/resets.scss",
+      "chunks": [],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "resolvedModuleIdentifier": null,
+          "resolvedModule": null,
+          "type": "loader import",
+          "active": true,
+          "explanation": "",
+          "userRequest": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss.webpack[javascript/auto]!=!!!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
+          "loc": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss.webpack[javascript/auto]!=!!!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": null,
+      "providedExports": [
+        "default"
+      ],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 2318,
+      "sizes": {
+        "javascript": 2318
+      },
+      "built": false,
+      "codeGenerated": false,
+      "buildTimeExecuted": true,
+      "cached": true,
+      "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\runtime\\api.js",
+      "name": "./node_modules/css-loader/dist/runtime/api.js",
+      "nameForCondition": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\runtime\\api.js",
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "cacheable": true,
+      "optional": false,
+      "orphan": true,
+      "issuer": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
+      "issuerName": "./src/client/styles/resets.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/client/styles/resets.scss",
+      "issuerPath": [
+        {
+          "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\index.js",
+          "name": "./src/client/index.js",
+          "id": "./src/client/index.js"
+        },
+        {
+          "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
+          "name": "./src/client/styles/resets.scss",
+          "id": "./src/client/styles/resets.scss"
+        },
+        {
+          "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
+          "name": "./src/client/styles/resets.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/client/styles/resets.scss",
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "issuerId": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
+          "module": "./src/client/styles/resets.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/client/styles/resets.scss",
+          "moduleName": "./src/client/styles/resets.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/client/styles/resets.scss",
+          "resolvedModuleIdentifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
+          "resolvedModule": "./src/client/styles/resets.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/client/styles/resets.scss",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../../../node_modules/css-loader/dist/runtime/api.js",
+          "loc": "3:0-95",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
+          "module": "./src/client/styles/resets.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/client/styles/resets.scss",
+          "moduleName": "./src/client/styles/resets.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/client/styles/resets.scss",
+          "resolvedModuleIdentifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
+          "resolvedModule": "./src/client/styles/resets.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/client/styles/resets.scss",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../../../node_modules/css-loader/dist/runtime/api.js",
+          "loc": "4:30-57",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\runtime\\api.js",
+          "module": "./node_modules/css-loader/dist/runtime/api.js",
+          "moduleName": "./node_modules/css-loader/dist/runtime/api.js",
+          "resolvedModuleIdentifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\runtime\\api.js",
+          "resolvedModule": "./node_modules/css-loader/dist/runtime/api.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "7:0-14",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 688,
+      "sizes": {
+        "javascript": 688
+      },
+      "built": false,
+      "codeGenerated": false,
+      "buildTimeExecuted": true,
+      "cached": true,
+      "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\runtime\\sourceMaps.js",
+      "name": "./node_modules/css-loader/dist/runtime/sourceMaps.js",
+      "nameForCondition": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\runtime\\sourceMaps.js",
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "cacheable": true,
+      "optional": false,
+      "orphan": true,
+      "issuer": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
+      "issuerName": "./src/client/styles/resets.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/client/styles/resets.scss",
+      "issuerPath": [
+        {
+          "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\index.js",
+          "name": "./src/client/index.js",
+          "id": "./src/client/index.js"
+        },
+        {
+          "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
+          "name": "./src/client/styles/resets.scss",
+          "id": "./src/client/styles/resets.scss"
+        },
+        {
+          "identifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
+          "name": "./src/client/styles/resets.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/client/styles/resets.scss",
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "issuerId": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
+          "module": "./src/client/styles/resets.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/client/styles/resets.scss",
+          "moduleName": "./src/client/styles/resets.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/client/styles/resets.scss",
+          "resolvedModuleIdentifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
+          "resolvedModule": "./src/client/styles/resets.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/client/styles/resets.scss",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../../../node_modules/css-loader/dist/runtime/sourceMaps.js",
+          "loc": "2:0-112",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
+          "module": "./src/client/styles/resets.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/client/styles/resets.scss",
+          "moduleName": "./src/client/styles/resets.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/client/styles/resets.scss",
+          "resolvedModuleIdentifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\src\\client\\styles\\resets.scss",
+          "resolvedModule": "./src/client/styles/resets.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/client/styles/resets.scss",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../../../node_modules/css-loader/dist/runtime/sourceMaps.js",
+          "loc": "4:58-95",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\runtime\\sourceMaps.js",
+          "module": "./node_modules/css-loader/dist/runtime/sourceMaps.js",
+          "moduleName": "./node_modules/css-loader/dist/runtime/sourceMaps.js",
+          "resolvedModuleIdentifier": "C:\\Users\\Chayo\\Desktop\\RMIT\\Assignments\\evaluate-news-nlp\\node_modules\\css-loader\\dist\\runtime\\sourceMaps.js",
+          "resolvedModule": "./node_modules/css-loader/dist/runtime/sourceMaps.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "3:0-14",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 267,
+      "sizes": {
+        "runtime": 267
+      },
+      "built": false,
+      "codeGenerated": false,
+      "buildTimeExecuted": true,
+      "cached": true,
+      "identifier": "webpack/runtime/compat get default export",
+      "name": "webpack/runtime/compat get default export",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": true,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
       "moduleType": "runtime",
       "layer": null,
       "size": 267,
@@ -9128,6 +9522,39 @@
         "runtime": 2794
       },
       "built": false,
+      "codeGenerated": false,
+      "buildTimeExecuted": true,
+      "cached": true,
+      "identifier": "webpack/runtime/css loading",
+      "name": "webpack/runtime/css loading",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": true,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 2794,
+      "sizes": {
+        "runtime": 2794
+      },
+      "built": false,
       "codeGenerated": true,
       "buildTimeExecuted": false,
       "cached": false,
@@ -9151,6 +9578,39 @@
       "reasons": [],
       "usedExports": null,
       "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 308,
+      "sizes": {
+        "runtime": 308
+      },
+      "built": false,
+      "codeGenerated": false,
+      "buildTimeExecuted": true,
+      "cached": true,
+      "identifier": "webpack/runtime/define property getters",
+      "name": "webpack/runtime/define property getters",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": true,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": null,
       "optimizationBailout": [],
       "depth": null
     },
@@ -9228,9 +9688,42 @@
       "type": "module",
       "moduleType": "runtime",
       "layer": null,
-      "size": 173,
+      "size": 163,
       "sizes": {
-        "runtime": 173
+        "runtime": 163
+      },
+      "built": false,
+      "codeGenerated": false,
+      "buildTimeExecuted": true,
+      "cached": true,
+      "identifier": "webpack/runtime/get mini-css chunk filename",
+      "name": "webpack/runtime/get mini-css chunk filename",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": true,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 163,
+      "sizes": {
+        "runtime": 163
       },
       "built": false,
       "codeGenerated": true,
@@ -9373,6 +9866,39 @@
         "runtime": 88
       },
       "built": false,
+      "codeGenerated": false,
+      "buildTimeExecuted": true,
+      "cached": true,
+      "identifier": "webpack/runtime/hasOwnProperty shorthand",
+      "name": "webpack/runtime/hasOwnProperty shorthand",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": true,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 88,
+      "sizes": {
+        "runtime": 88
+      },
+      "built": false,
       "codeGenerated": true,
       "buildTimeExecuted": false,
       "cached": false,
@@ -9396,6 +9922,39 @@
       "reasons": [],
       "usedExports": null,
       "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 9132,
+      "sizes": {
+        "runtime": 9132
+      },
+      "built": false,
+      "codeGenerated": false,
+      "buildTimeExecuted": true,
+      "cached": true,
+      "identifier": "webpack/runtime/hot module replacement",
+      "name": "webpack/runtime/hot module replacement",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": true,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": null,
       "optimizationBailout": [],
       "depth": null
     },
@@ -9513,6 +10072,39 @@
         "runtime": 274
       },
       "built": false,
+      "codeGenerated": false,
+      "buildTimeExecuted": true,
+      "cached": true,
+      "identifier": "webpack/runtime/make namespace object",
+      "name": "webpack/runtime/make namespace object",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": true,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 274,
+      "sizes": {
+        "runtime": 274
+      },
+      "built": false,
       "codeGenerated": true,
       "buildTimeExecuted": false,
       "cached": false,
@@ -9578,6 +10170,39 @@
       "type": "module",
       "moduleType": "runtime",
       "layer": null,
+      "size": 106,
+      "sizes": {
+        "runtime": 106
+      },
+      "built": false,
+      "codeGenerated": false,
+      "buildTimeExecuted": true,
+      "cached": true,
+      "identifier": "webpack/runtime/publicPath",
+      "name": "webpack/runtime/publicPath",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": true,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
       "size": 867,
       "sizes": {
         "runtime": 867
@@ -9619,35 +10244,35 @@
       "assets": [
         {
           "name": "main.css",
-          "size": 3486
+          "size": 4439
         },
         {
           "name": "main.js",
-          "size": 283734
+          "size": 283338
         },
         {
-          "name": "main.d9b332b82280951c9261.hot-update.js",
-          "size": 2608
+          "name": "main.682a922e96771a430768.hot-update.js",
+          "size": 1045
         }
       ],
       "filteredAssets": 0,
-      "assetsSize": 289828,
+      "assetsSize": 288822,
       "auxiliaryAssets": [
         {
-          "name": "main.css.map",
-          "size": 2677
+          "name": "main.682a922e96771a430768.hot-update.js.map",
+          "size": 821
         },
         {
-          "name": "main.d9b332b82280951c9261.hot-update.js.map",
-          "size": 2626
+          "name": "main.css.map",
+          "size": 3524
         },
         {
           "name": "main.js.map",
-          "size": 334646
+          "size": 334145
         }
       ],
       "filteredAuxiliaryAssets": 0,
-      "auxiliaryAssetsSize": 339949,
+      "auxiliaryAssetsSize": 338490,
       "children": {},
       "childAssets": {},
       "isOverSizeLimit": false
@@ -9662,35 +10287,35 @@
       "assets": [
         {
           "name": "main.css",
-          "size": 3486
+          "size": 4439
         },
         {
           "name": "main.js",
-          "size": 283734
+          "size": 283338
         },
         {
-          "name": "main.d9b332b82280951c9261.hot-update.js",
-          "size": 2608
+          "name": "main.682a922e96771a430768.hot-update.js",
+          "size": 1045
         }
       ],
       "filteredAssets": 0,
-      "assetsSize": 289828,
+      "assetsSize": 288822,
       "auxiliaryAssets": [
         {
-          "name": "main.css.map",
-          "size": 2677
+          "name": "main.682a922e96771a430768.hot-update.js.map",
+          "size": 821
         },
         {
-          "name": "main.d9b332b82280951c9261.hot-update.js.map",
-          "size": 2626
+          "name": "main.css.map",
+          "size": 3524
         },
         {
           "name": "main.js.map",
-          "size": 334646
+          "size": 334145
         }
       ],
       "filteredAuxiliaryAssets": 0,
-      "auxiliaryAssetsSize": 339949,
+      "auxiliaryAssetsSize": 338490,
       "children": {},
       "childAssets": {},
       "isOverSizeLimit": false

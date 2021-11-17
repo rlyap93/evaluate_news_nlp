@@ -1,14 +1,16 @@
 body {
+    background-color: rgba(252, 224, 224, 0.322);;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    align-items: center;
 }
 
 main {
     flex: 2;
+    min-width: 70%;
 }
 
 section {
-    max-width: 800px;
     margin: 50px auto;
 }
